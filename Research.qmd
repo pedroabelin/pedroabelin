@@ -1,12 +1,18 @@
 ---
-title: "About"
+title: "Journal Publications"
 ---
 
-About this site
+ABELIN, Pedro. POPULISMO E NOVAS TECNOLOGIAS DIGITAIS: UM CASAMENTO PERIGOSO?. Conexão Política, v. 10, n. 1, p. 210-233, 2021.
 
-Pedro Abelin is a Ph.D. student in the Department of Government and Politics at the University of Maryland, College Park. His research interests cut across populism, far-right politics, digital activism, and social movements, seeking to understand the relationship between social media and populist communication. He holds an M.A and a B.A in Political Science from the University of Brasília, Brazil. Before starting the Ph.D., Pedro was a researcher at the Institute for Democracy and Democratization of Communication – INCT, in Brazil. At the University of Maryland, Pedro is a member of  the Latin American and Caribbean Studies Center (LASC). He is also a member of the research group Rethinking the Relations between Society and State (Resocie), from the University of Brasília. 
+ABELIN, Pedro (2020). The crisis of liberal democracy and New 
+Technologies: A case study of the Free Brazil Movement. Revista CESContexto, n. 27, p.53–84
+
+VON BULOW, Marisa; Vilaça, Luiz; ABELIN, Pedro. “Varieties of Digital Practices for Activism: students and mobilization in Chile.” Information, Communication & Society, vol. 1, pp. 1–19.
+
 
 ```{r}
+
+
 
 
 ```
