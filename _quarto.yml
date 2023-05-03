@@ -11,6 +11,8 @@ website:
         text: Research
       - href: Interviews.qmd
         text: Interviews
+      - href: Magazine Articles.qmd
+        text: Magazine Articles
 
 format:
   html:
