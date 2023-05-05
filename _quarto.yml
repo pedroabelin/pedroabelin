@@ -13,6 +13,8 @@ website:
         text: Interviews
       - href: Magazine Articles.qmd
         text: Magazine Articles
+      - href: Statistical Analysis.qmd
+        text: Statistical Analysis  
 
 format:
   html:
