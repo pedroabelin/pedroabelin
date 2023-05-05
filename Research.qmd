@@ -4,11 +4,9 @@ title: "Journal Publications"
 
 ABELIN, Pedro. POPULISMO E NOVAS TECNOLOGIAS DIGITAIS: UM CASAMENTO PERIGOSO?. Conexão Política, v. 10, n. 1, p. 210-233, 2021.
 
-ABELIN, Pedro (2020). The crisis of liberal democracy and New 
-Technologies: A case study of the Free Brazil Movement. Revista CESContexto, n. 27, p.53–84
+ABELIN, Pedro (2020). The crisis of liberal democracy and New Technologies: A case study of the Free Brazil Movement. Revista CESContexto, n. 27, p.53--84
 
-VON BULOW, Marisa; Vilaça, Luiz; ABELIN, Pedro. “Varieties of Digital Practices for Activism: students and mobilization in Chile.” Information, Communication & Society, vol. 1, pp. 1–19.
-
+VON BULOW, Marisa; Vilaça, Luiz; ABELIN, Pedro. "Varieties of Digital Practices for Activism: students and mobilization in Chile." Information, Communication & Society, vol. 1, pp. 1--19.
 
 ```{r}
 
