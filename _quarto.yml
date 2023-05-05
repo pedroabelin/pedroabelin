@@ -14,7 +14,7 @@ website:
       - href: Magazine Articles.qmd
         text: Magazine Articles
       - href: Analysis.qmd
-        text: Analysis  
+        text: Analysis 
 
 format:
   html:
