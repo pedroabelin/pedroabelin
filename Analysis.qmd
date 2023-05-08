@@ -4,8 +4,7 @@ format: html
 editor: visual
 ---
 
-```{r}
-```
+
 
 ![](Basic%20Network%20Plot.png)
 
