@@ -8,9 +8,3 @@ ABELIN, Pedro (2020). The crisis of liberal democracy and New Technologies: A ca
 
 VON BULOW, Marisa; Vilaça, Luiz; ABELIN, Pedro. "Varieties of Digital Practices for Activism: students and mobilization in Chile." Information, Communication & Society, vol. 1, pp. 1--19.
 
-```{r}
-
-
-
-
-```

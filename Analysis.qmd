@@ -17,8 +17,7 @@ The red community is made up of Bolsonarist influencers.
 
 The Movimento Brasil Livre, the main Brazilian right-wing movement, forms the blue community
 
-```{r}
-```
+
 
 ![](Brazilian%20Far-Right%203.png)
 
