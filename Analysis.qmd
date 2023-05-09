@@ -4,19 +4,15 @@ format: html
 editor: visual
 ---
 
-
-
 ![](Basic%20Network%20Plot.png)
 
-This Network plot is from the far-right Brazilian Twittersphere. The data is from October 2022. The community in green consists of "hard-line" Bolsonarism. Formed by Bolsonarist congressmen and Bolsonarist influencers
+This network plot represents the far-right Brazilian Twittersphere using data from October 2022. The green community consists of "hard-line" Bolsonarists, comprising Bolsonarist congressmen and Bolsonarist influencers.
 
-The black community comprises "intellectuals" from the Brazilian radical right and Bolsonarism. They are actors linked to conservative media groups and think tanks. Former judge and Bolsonaro minister Sergio Moro appears as the most prominent political figure on the network.
+The black community consists of "intellectuals" from the Brazilian radical right and Bolsonarism. They are actors associated with conservative media groups and think tanks. Sergio Moro, a former judge and Bolsonaro minister, appears as the most prominent political figure in the network.
 
-The red community is made up of Bolsonarist influencers.
+The red community consists of Bolsonarist influencers.
 
-The Movimento Brasil Livre, the main Brazilian right-wing movement, forms the blue community
-
-
+The blue community represents the Movimento Brasil Livre, the primary right-wing movement in Brazil.
 
 ![](Brazilian%20Far-Right%203.png)
 
@@ -27,3 +23,9 @@ The Movimento Brasil Livre, the main Brazilian right-wing movement, forms the bl
 ![](Brazilian%20Far-Right%202.png)
 
 ![](Dendogram-Color%20(2)-1.png)
+
+Here we can see the dendrogram of the far-right Twittersphere, which illustrates the interconnectedness of various groups. There is a clear distinction between Bolsonarism linked to religious fundamentalist groups, Bolsonarism linked to mainstream journalism, and Bolsonarism associated with social movements and the Car-Wash Operation.
+
+![](Authority%20and%20Hub.jpg)
+
+The authority Hub highlights the salience of the Bolsonaro family.
